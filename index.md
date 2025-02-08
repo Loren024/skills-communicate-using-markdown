@@ -11,3 +11,8 @@ def add_two_numbers(x: int, y: int) -> int:
   result = x + y
   return return
 ```
+
+- [x] Add a python code block depicting a basic addition function for 2 integers
+- [ ] Add a python code block depicting a basic substraction function for 2 integers
+- [ ] Add a python code block depicting a basic multiplication function for 2 integers
+- [ ] Add a python code block depicting a basic division function for 2 integers
